@@ -6,6 +6,23 @@ This project is an automatic street light / dark detector circuit designed for E
 
 The main goal of this project was to demonstrate how basic electronic components can be combined to create an automatic control system that responds to real-world environmental changes.
 
+## Project Files
+
+* [Project Presentation PDF](docs/automatic-street-light-dark-detector-presentation.pdf)
+* [Project Demonstration Video](https://www.youtube.com/shorts/w5eZVy3OntA)
+* [Breadboard Circuit Photo](images/breadboard-circuit-photo.png)
+* [Circuit Diagram](images/circuit-diagram.png)
+
+## Project Preview
+
+### Breadboard Circuit
+
+![Breadboard Circuit Photo](images/breadboard-circuit-photo.png)
+
+### Circuit Diagram
+
+![Circuit Diagram](images/circuit-diagram.png)
+
 ## Project Purpose
 
 The purpose of this project was to design and build a circuit that automatically responds to changing light conditions. Instead of manually turning a light on and off, the circuit senses the surrounding brightness and controls the LED output based on the detected light level.
@@ -91,9 +108,12 @@ Future improvements could include:
 
 ## Demonstration
 
-The project demonstration shows:
+The project demonstration video shows the circuit responding to light and darkness in real time.
 
-* The circuit responding to light and darkness
+[Watch the Project Demonstration Video](https://www.youtube.com/shorts/w5eZVy3OntA)
+
+The demonstration includes:
+
 * The LED turning on in dark conditions
 * The LED turning off in bright conditions
 * The effect of adjusting the potentiometer
