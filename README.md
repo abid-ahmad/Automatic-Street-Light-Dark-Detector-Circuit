@@ -17,11 +17,11 @@ The main goal of this project was to demonstrate how basic electronic components
 
 ### Breadboard Circuit
 
-![Breadboard Circuit Photo](images/breadboard-circuit-photo.png)
+![Breadboard Circuit Photo](images/breadboard-circuit-photo_new.png)
 
 ### Circuit Diagram
 
-![Circuit Diagram](images/circuit-diagram_new.png)
+![Circuit Diagram](images/circuit-diagram.png)
 
 ## Project Purpose
 
