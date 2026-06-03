@@ -10,7 +10,7 @@ The main goal of this project was to demonstrate how basic electronic components
 
 * [Project Presentation PDF](docs/automatic-street-light-dark-detector-presentation.pdf)
 * [Project Demonstration Video](https://www.youtube.com/shorts/w5eZVy3OntA)
-* [Breadboard Circuit Photo](images/breadboard-circuit-photo.png)
+* [Breadboard Circuit Photo](images/breadboard-circuit-photo_new.png)
 * [Circuit Diagram](images/circuit-diagram.png)
 
 ## Project Preview
@@ -21,7 +21,7 @@ The main goal of this project was to demonstrate how basic electronic components
 
 ### Circuit Diagram
 
-![Circuit Diagram](images/circuit-diagram.png)
+![Circuit Diagram](images/circuit-diagram_new.png)
 
 ## Project Purpose
 
